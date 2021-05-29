@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"></head>
+<body>
+			<nav class="sidebar sidebar-open" th:fragment="nav-sidebar">
+				<ul class="nav nav-pills">
+					<li class="nav-item"><a class="nav-link " th:href="@{/}"> <i
+							class="oi oi-home"></i> <span th:text="#{sidebar.link.home}"></span>
+					</a></li>
+				</ul>
+
+				<ul class="nav nav-pills">
+					<li class="nav-item"><span class="nav-link active" th:text="#{sidebar.titulo.departamento}">Departamentos</span></li>
+					<li class="nav-item"><a class="nav-link"
+						th:href="@{/departamentos/cadastrar}"> <i class="oi oi-plus"></i> 
+						<span th:text="#{sidebar.link.cadastrar}">Cadastrar</span>
+					</a></li>
+					<li class="nav-item"><a class="nav-link"
+						th:href="@{/departamentos/listar}"> <i class="oi oi-spreadsheet"></i>
+							<span th:text="#{sidebar.link.listar}">Listar </span>
+					</a></li>
+				</ul>
+
+				<ul class="nav nav-pills">
+					<li class="nav-item"><span class="nav-link active" th:text="#{sidebar.titulo.cargo}">Cargos</span></li>
+					<li class="nav-item"><a class="nav-link" 
+						th:href="@{/cargos/cadastrar}"> <i class="oi oi-plus"></i> 
+						<span th:text="#{sidebar.link.cadastrar}">Cadastrar </span>
+					</a></li>
+					<li class="nav-item"><a class="nav-link" 
+						th:href="@{/cargos/listar}"> <i
+							class="oi oi-spreadsheet"></i> 
+							<span th:text="#{sidebar.link.listar}">Listar </span>
+					</a></li>
+				</ul>
+
+				<ul class="nav nav-pills">
+					<li class="nav-item"><span class="nav-link active" th:text="#{sidebar.titulo.funcionario}">Funcionários</span></li>
+					<li class="nav-item"><a class="nav-link" 
+						th:href="@{/funcionarios/cadastrar}"> <i class="oi oi-plus"></i> 
+						<span th:text="#{sidebar.link.cadastrar}">Cadastrar </span>
+					</a></li>
+					<li class="nav-item"><a class="nav-link" 
+						th:href="@{/funcionarios/listar}"> <i class="oi oi-spreadsheet"></i> 
+						<span th:text="#{sidebar.link.listar}">Listar </span>
+					</a></li>
+				</ul>
+			</nav>
+</body>
+</html>

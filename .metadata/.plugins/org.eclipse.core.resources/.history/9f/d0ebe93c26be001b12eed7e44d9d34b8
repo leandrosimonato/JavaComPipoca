@@ -1,0 +1,18 @@
+package br.com.javacompipoca.service;
+
+import java.util.List;
+
+import br.com.javacompipoca.domain.Funcionario;
+
+public interface FuncionarioService {
+	
+	void salvar(Funcionario funcionario);
+	
+	void editar(Funcionario funcionario);
+	
+	void excluir(Long id);
+	
+	Funcionario buscarPorId(String nome);
+	
+	List<Funcionario> BuscarTodos();
+}

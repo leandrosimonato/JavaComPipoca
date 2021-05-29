@@ -1,0 +1,5 @@
+package br.com.javacompipoca.web.conversor;
+
+public class StringToCargoConversor {
+
+}

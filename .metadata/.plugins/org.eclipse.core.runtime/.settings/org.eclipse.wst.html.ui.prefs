@@ -1,0 +1,22 @@
+autoProposeCode=<\=\#\#\#\#\#
+commentBorder=\#8C3FC8 | null | null | null | null | null
+commentText=\#8C3FC8 | null | null | null | null | null
+declBoder=\#F7C527 | null | null | null | null | null
+doctypeExternalId=\#F7C527 | null | null | null | null | null
+doctypeExternalPubref=\#F7C527 | null | null | null | null | null
+doctypeExtrenalSysref=\#F7C527 | null | null | null | null | null
+doctypeName=\#F7C527 | null | null | null | null | null
+eclipse.preferences.version=1
+entityReference=\#EC691E | null | null | null | null | null
+html_content_assist_default_page_sort_order=org.eclipse.wst.jsdt.web.ui.ContentAssistProposals\u0000org.thymeleaf.extras.eclipse.proposalCategory.thymeleafProcessors\u0000org.eclipse.wst.html.ui.proposalCategory.htmlTags\u0000org.eclipse.wst.html.ui.proposalCategory.generic\u0000org.eclipse.wst.css.ui.proposalCategory.css\u0000org.eclipse.wst.html.ui.proposalCategory.htmlTemplates\u0000org.eclipse.wst.css.ui.proposalCategory.cssTemplates\u0000org.eclipse.wst.html.ui.proposalCategory.htmlAttributeValues\u0000
+html_content_assist_display_on_default_page=
+html_content_assist_own_page_sort_order=org.eclipse.wst.jsdt.web.ui.ContentAssistProposals\u0000org.thymeleaf.extras.eclipse.proposalCategory.thymeleafProcessors\u0000org.eclipse.wst.html.ui.proposalCategory.htmlTemplates\u0000org.eclipse.wst.css.ui.proposalCategory.cssTemplates\u0000org.eclipse.wst.html.ui.proposalCategory.htmlTags\u0000org.eclipse.wst.css.ui.proposalCategory.css\u0000org.eclipse.wst.html.ui.proposalCategory.generic\u0000org.eclipse.wst.html.ui.proposalCategory.htmlAttributeValues\u0000
+newFileTemplateName=New HTML File (5)
+org.eclipse.wst.sse.ui.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+overriddenByCSS=,commentBorder,commentText,declBoder,doctypeExternalId,doctypeExternalPubref,doctypeExtrenalSysref,doctypeName,entityReference,tagAttributeEquals,tagAttributeName,tagAttributeValue,tagBorder,tagName,xmlContent,
+tagAttributeEquals=\#FFFFFF | null | null | null | null | null
+tagAttributeName=\#357A8F | null | null | null | null | null
+tagAttributeValue=\#477488 | null | null | null | null | null
+tagBorder=\#3C758D | null | null | null | null | null
+tagName=\#357A92 | null | null | null | null | null
+xmlContent=\#FFFFFF | null | null | null | null | null

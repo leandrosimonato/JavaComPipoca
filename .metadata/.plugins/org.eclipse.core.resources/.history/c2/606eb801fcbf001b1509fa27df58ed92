@@ -1,0 +1,12 @@
+# JPA
+spring.jpa.hibernate.ddl-auto= update
+spring.jpa.properties.hibernate.format_sql=true
+spring.jpa.show-sql= true
+spring.jpa.open-in-view= true
+
+ # h2
+spring.h2.console.enabled=true
+spring.h2.console.path=/h2-console
+
+# THYMELEAF
+spring.thymeleaf.cache= false 
